@@ -1,0 +1,11 @@
+Your job is to read the question from <message>, extract question-related content from <related_documents>, and answer the question.
+
+<message>
+{user_message}
+</message>
+
+<related_documents>
+{related_documents}
+</related_documents>
+
+Answer:
